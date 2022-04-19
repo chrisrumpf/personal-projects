@@ -1,4 +1,4 @@
-#Personal Website
+# Personal Website
 
 This is just a github repo for the website that I'm building personally. Just a tiny little website to explain who I am and hold links to other projects I may have built.
 
